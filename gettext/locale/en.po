@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Shown on the login screen
+msgid "Sign in"
+msgstr "Sign in"
+
+msgctxt "menu"
+msgid "Open"
+msgstr "Open"
+
+msgctxt "status"
+msgid "Open"
+msgstr "Open"
+
+#, python-format
+msgid "Welcome, %(name)s"
+msgstr "Welcome, %(name)s"
+
+msgid "One file"
+msgid_plural "%d files"
+msgstr[0] "One file"
+msgstr[1] "%d files"
+
+#~ msgid "Obsolete entry"
+#~ msgstr "Obsolete entry"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Acme</string>
+    <string name="welcome">Welcome to <xliff:g id="app">%1$s</xliff:g>!</string>
+    <string name="logout">Log out</string>
+    <string name="quoted">"  Keeps its spaces  "</string>
+    <string name="apostrophe">Don\'t forget to save</string>
+    <string name="alias">@string/logout</string>
+    <string name="bold">Tap <b>Save</b> to continue</string>
+    <string-array name="weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+    </string-array>
+    <plurals name="songs">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+</resources>

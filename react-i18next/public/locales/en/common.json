@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Home",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "greeting": "Hello, {{name}}!",
+  "items_one": "{{count}} item",
+  "items_other": "{{count}} items",
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete {{item}}?"
+  }
+}

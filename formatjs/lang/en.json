@@ -1,0 +1,18 @@
+{
+  "signup.cta": {
+    "defaultMessage": "Create account",
+    "description": "Primary button on the sign-up page"
+  },
+  "signup.terms": {
+    "defaultMessage": "By signing up you accept the {termsLink}.",
+    "description": "Sentence under the sign-up form; termsLink is a link"
+  },
+  "signup.welcome": {
+    "defaultMessage": "Welcome back, {firstName}",
+    "description": "Heading after login"
+  },
+  "notFormatjs": {
+    "defaultMessage": "Has another member, so it imports as two dotted keys",
+    "tooltip": "Extra member"
+  }
+}

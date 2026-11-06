@@ -1,0 +1,6 @@
+{
+  "Loading...": "Loading...",
+  ".env": "Environment file",
+  "a..b": "Double dot is part of the name",
+  "nested": { "with.dot": "Dot inside a nested name" }
+}

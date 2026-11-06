@@ -1,0 +1,7 @@
+{
+  // comments are accepted
+  'singleQuoted': 'Single quotes',
+  unquoted: "Unquoted name",
+  "trailing": "Trailing comma",
+  "skipped": { "number": 42, "flag": true, "nothing": null, "list": ["a", "b"] },
+}

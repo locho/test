@@ -1,0 +1,12 @@
+{
+  "title": "Checkout",
+  "summary": {
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total: {{amount}}"
+  },
+  "errors": {
+    "cardDeclined": "Your card was declined.",
+    "addressMissing": "Add a shipping address to continue."
+  }
+}

@@ -1,0 +1,2 @@
+/* Camera permission prompt */
+"NSCameraUsageDescription" = "We use the camera to scan receipts.";

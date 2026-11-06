@@ -1,0 +1,7 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "settings": "Einstellungen"
+  },
+  "greeting": "Hallo, {{name}}!"
+}

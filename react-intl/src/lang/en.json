@@ -1,0 +1,7 @@
+{
+  "app.header.title": "Dashboard",
+  "app.header.subtitle": "Everything at a glance",
+  "app.inbox.count": "{count, plural, =0 {No messages} one {# message} other {# messages}}",
+  "app.profile.pronoun": "{gender, select, female {She} male {He} other {They}} updated the profile",
+  "app.footer.copyright": "© {year} Example Inc."
+}
