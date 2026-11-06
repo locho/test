@@ -3,7 +3,8 @@
     "home": "Home",
     "settings": "Settings",
     "logout": "Log out",
-    "login": "Why?"
+    "login": "Why?",
+    "another_key": "value"
   },
   "greeting": "Hello, {{name}}!",
   "items_one": "{{count}} item",
