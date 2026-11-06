@@ -1,0 +1,12 @@
+{
+  "title": "Zur Kasse gehen",
+  "summary": {
+    "subtotal": "Zwischensumme",
+    "shipping": "Versandkosten",
+    "total": "Gesamt: {{amount}}"
+  },
+  "errors": {
+    "cardDeclined": "Ihre Karte wurde abgelehnt.",
+    "addressMissing": "Fügen Sie eine Lieferadresse hinzu, um fortzufahren."
+  }
+}
