@@ -1,7 +1,15 @@
 {
   "nav": {
     "home": "Startseite",
-    "settings": "Einstellungen"
+    "settings": "Einstellungen",
+    "logout": "Abmelden"
   },
-  "greeting": "Hallo, {{name}}!"
+  "greeting": "Hallo, {{name}}!",
+  "items_one": "Artikel {{count}}",
+  "items_other": "{{count}} Artikel",
+  "actions": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Möchten Sie {{item}} löschen?"
+  }
 }

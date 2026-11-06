@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "greeting": "¡Hola, {{name}}!",
+  "items_one": "artículo {{count}}",
+  "items_other": "{{count}} artículos",
+  "actions": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "¿Eliminar {{item}}?"
+  }
+}

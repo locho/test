@@ -1,0 +1,12 @@
+{
+  "title": "Finalización de la compra",
+  "summary": {
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "total": "Total: {{amount}}"
+  },
+  "errors": {
+    "cardDeclined": "Su tarjeta fue rechazada.",
+    "addressMissing": "Añada una dirección de envío para continuar."
+  }
+}
