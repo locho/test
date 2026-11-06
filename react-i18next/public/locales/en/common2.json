@@ -4,7 +4,8 @@
     "settings": "Settings",
     "logout": "Log out",
     "login": "Why?",
-    "another_key": "value"
+    "another_key": "value",
+    "one_more": "another value"
   },
   "greeting": "Hello, {{name}}!",
   "items_one": "{{count}} item",
