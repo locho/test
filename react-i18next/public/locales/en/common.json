@@ -5,6 +5,7 @@
     "logout": "Log out"
   },
   "greeting": "Hello, {{name}}!",
+  "altBranch": "Only on the strings-alt branch",
   "items_one": "{{count}} item",
   "items_other": "{{count}} items",
   "actions": {
