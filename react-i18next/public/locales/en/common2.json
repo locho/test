@@ -2,7 +2,8 @@
   "nav": {
     "home": "Home",
     "settings": "Settings",
-    "logout": "Log out"
+    "logout": "Log out",
+    "login": "Why?"
   },
   "greeting": "Hello, {{name}}!",
   "items_one": "{{count}} item",
