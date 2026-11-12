@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : ((n!=0 && n%1000000==0)) ? 1 :"
+" 2);\n"
+
+#. Template entry
+msgid "Report a problem"
+msgstr "Informar de un problema"
+
+msgid "Thanks for your feedback"
+msgstr "Gracias por tus comentarios"
