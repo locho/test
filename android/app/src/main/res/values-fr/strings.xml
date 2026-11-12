@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="welcome">Bienvenue sur <xliff:g id="app">%1$s</xliff:g> !</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="quoted">"  Garde ses espaces  "</string>
+    <string name="apostrophe">N\'oubliez pas d\'enregistrer</string>
+    <string name="alias">@string/logout</string>
+    <string name="bold">Appuyez sur <b>Enregistrer</b> pour continuer</string>
+    <string-array name="weekdays">
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Vendredi</item>
+    </string-array>
+    <plurals name="songs">
+        <item quantity="one">chanson de %d</item>
+        <item quantity="many">chansons de %d</item>
+        <item quantity="other">chansons de %d</item>
+    </plurals>
+</resources>
