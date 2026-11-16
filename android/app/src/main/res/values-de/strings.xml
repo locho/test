@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="welcome">Willkommen bei <xliff:g id="app">%1$s</xliff:g></string>
     <string name="logout">Abmelden</string>
+    <string name="quoted">"  Behält seine Räume  "</string>
+    <string name="apostrophe">Vergessen Sie nicht, zu speichern</string>
+    <string name="alias">@string/logout</string>
+    <string name="bold">Tippen Sie auf <b>Speichern</b>, um fortzufahren</string>
+    <string-array name="weekdays">
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Freitag</item>
+    </string-array>
+    <plurals name="songs">
+        <item quantity="one">Lied von %d</item>
+        <item quantity="other">Titel von %d</item>
+    </plurals>
 </resources>
